@@ -8,15 +8,15 @@ Peter Olsoy (Project Lead), Joel Masselink, Sebastian Essink, Marvin Bensch
 
 ## Application Example
 
-# Sample Data
+## Sample Data
 
-# Specific Questions
+## Specific Questions
 
-# Existing Methods
+## Existing Methods
 
-# Proposed Methods/Tools
+## Proposed Methods/Tools
 
-# Background Reading
+## Background Reading
 
 ## Files
 
