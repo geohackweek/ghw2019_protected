@@ -1,20 +1,20 @@
 ### Project Title
-#### Recovery time and succession of burned areas in protected areas
+ Recovery time and succession of burned areas in protected areas
 
-##### Collaborators
-Peter Olsoy (Project Lead), Joel Masselink, Sebastian Essink, Marvin Bensch
+### Collaborators
+Peter Olsoy (Project Lead), Joel Masselink, Sebastian Essink, Marvin Bensch, Ethan Andrews
 
-##### The Problem
+### The Problem
 
 
 
-##### Application Example
+### Application Example
 
-##### Sample Data
+### Sample Data
 WA State Protected Area estate:
 > Categorized into public and private management
 
-##### Specific Questions
+### Specific Questions
 - fire/burned area boundaries
 - classify land condition using raster data (NDVI, optical)
 - look at succession / regeneration (**before** and **after** fire)
@@ -28,27 +28,31 @@ WA State Protected Area estate:
 > - build xarray dataset of satellite imagery / NDVI
 
 
-## Existing Methods
+### Existing Methods
 
-## Proposed Methods/Tools
+### Proposed Methods/Tools
 
-## Background Reading
+### Background Reading
+[Normalized Burn Ratio](https://wiki.landscapetoolbox.org/doku.php/remote_sensing_methods:normalized_burn_ratio)
 
-## Files
+### Files
 
 * `.gitignore`
 <br> Globally ignored files by `git` for the project.
 * `environment.yml`
 <br> `conda` environment description needed to run this project.
 * `README.md`
-<br> Description of the project. [Sample](https://geohackweek.github.io/wiki/github_project_management.html#project-guidelines)
+<br> Description of the project.
 
-## Folders
+### Folders
 
 ### `contributors`
 Each team member has it's own folder under contributors, where he/she can
 work on their contribution. Having a dedicated folder for one-self helps to
 prevent conflicts when merging with master.
+
+### `data`
+Test datasets for the project including the protected areas and fire perimeters for Washington State.
 
 ### `notebooks`
 Notebooks that are considered delivered results for the project should go in
