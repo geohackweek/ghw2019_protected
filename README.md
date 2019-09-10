@@ -1,6 +1,21 @@
-# Sample Project
+# Project Title
+Recovery time of burned areas in protected areas
 
-This is as an example on how teams can structure their project repositories.
+# Collaborators
+
+# The Problem
+
+# Application Example
+
+# Sample Data
+
+# Specific Questions
+
+# Existing Methods
+
+# Proposed Methods/Tools
+
+# Background Reading
 
 ## Files
 
