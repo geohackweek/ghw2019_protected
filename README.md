@@ -7,12 +7,13 @@ Peter Olsoy (Project Lead), Joel Masselink, Sebastian Essink, Marvin Bensch, Eth
 ### The Problem
 
 
-
 ### Application Example
+
 
 ### Sample Data
 WA State Protected Area estate:
 > Categorized into public and private management
+
 
 ### Specific Questions
 - fire/burned area boundaries
