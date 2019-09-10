@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<citation>
+<citeinfo>
+<pubdate>20180426</pubdate>
+<title>Washington Large Fires 1973-2017</title>
+<onlink>https://gis.dnr.wa.gov/site3/rest/services/Public_Wildfire/WADNR_PUBLIC_WD_WildFire_Data/MapServer/0</onlink>
+<onlink>https://fortress.wa.gov/dnr/adminsa/gisdata/datadownload/state_wa_lrg_fires.zip</onlink>
+<onlink>https://fortress.wa.gov/dnr/adminsa/GisData/metadata/wa_lrg_fires.htm</onlink>
+</citeinfo>
+</citation>
+<descript>
+<abstract>Washington Large Fire dataset represents large fires in Washington State typically over 100 acres, but smaller perimeters have been included when data is available.                 Collecting accurate large fire perimeters is a coordinated effort between federal, state and local agencies. The Northwest Coordination Center in Portland, Oregon heads this effort by compiling daily fire perimeters from the National Interagency Fire Center (NIFC) ftp site during fire season and at the end of each calendar year. The purpose of this data is to provide consistent spatial data throughout Washington for management, planning or analysis involving fire history. Fire perimeter polygons represent final fire perimeters provided by jurisdictional agency, local agencies or Incident Management Teams assigned to the fire. Final products for each polygon are maintained at the local level to track the area affected by fire. This dataset dates back to 1973, some data may be missing or inaccurate. DNR works in coordination with other agencies to make every attempt to get complete and correct data at the end of each fire season.</abstract>
+<purpose>This data set was created to achieve consistent data, throughout Oregon and Washington for management, planning or analysis involving large fire history</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Washington</themekey>
+<themekey>WA</themekey>
+<themekey>Department of Natural Resources</themekey>
+<themekey>DNR</themekey>
+<themekey>Fire</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>Restrictions and legal prerequisites for using the data set after access is granted. (How can or should those with access use the data set?) This digital data and metadata, (hereinafter collectively referred to as the &amp;quot;information&amp;quot;), are provided on an &amp;quot;AS IS&amp;quot;, &amp;quot;AS AVAILABLE&amp;quot; and &amp;quot;WITH ALL FAULTS&amp;quot; basis. Neither Department of Natural Resources nor any of its officials and employees makes any warranty of any kind for this information, express or implied, including but not limited to any warranties of merchantability or fitness for a particular purpose, nor shall the distribution of this information constitute any warranty. The information is collected from various sources and will change over time without notice. DNR and its officials and employees assume no responsibility or legal liability for the accuracy, completeness, reliability, timeliness, or usefulness of any of the information provided nor do they represent that the use of any of the information will not infringe privately owned rights. The information is not intended to constitute advice nor is it to be used as a substitute for specific advice from a licensed professional. You should not act (or refrain from acting) based upon the information without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances. References to any specific commercial product, process, and service by trade name, trademark, or manufacturer do not constitute or imply endorsement, recommendation, or favoring by DNR and its officials and employees.The Washington State Department of Natural Resources (DNR)
+provides these geographic data &amp;quot;as is.&amp;quot; DNR makes no guarantee or
+warranty concerning the accuracy of information contained in the geographic
+data. DNR further makes no warranties, either expressed or implied as to any
+other matter whatsoever, including, without limitation, the condition of the
+product, or its fitness for any particular purpose. The burden for determining
+fitness for use lies entirely with the user. Although these data have been
+processed successfully on computers of DNR, no warranty, expressed or implied,
+is made by DNR regarding the use of these data on any other system, nor does
+the fact of distribution constitute or imply any such warranty. In no event
+shall the DNR have any liability whatsoever for payment of any consequential,
+incidental, indirect, special, or tort damages of any kind, including, but not
+limited to, any loss of profits arising out of use of or reliance on the
+geographic data or arising out of the delivery, installation, operation, or
+support by DNR.</useconst>
+<datacred>Data is compiled in coordination with Northwest Coordination Center in Portland, OR.</datacred>
+</idinfo>
+<metainfo>
+<metd>20170314</metd>
+<metc>
+<cntinfo>
+<!--no contact person or organization name available-->
+</cntinfo>
+</metc>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>
