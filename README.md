@@ -1,11 +1,12 @@
-# Project Title
-Recovery time of burned areas in protected areas
+## Project Title
+Recovery time and succession of burned areas in protected areas
 
-# Collaborators
+## Collaborators
+Peter Olsoy (Project Lead), Joel Masselink, Sebastian Essink, Marvin Bensch
 
-# The Problem
+## The Problem
 
-# Application Example
+## Application Example
 
 # Sample Data
 
