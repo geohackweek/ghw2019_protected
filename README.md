@@ -29,16 +29,23 @@ Fire perimeters in Washington from 1973-2018
 - investigate breakdown of protected area estate between public and private, and by state
 - what is the connection between protection and fire occurrence and post-fire succession?
 
-> tasks:
-> - find burned area polygons
-> - find fire occurrence points (NASA FIRMS / GlobalForestWatch)
-> - import PA data into Earth Engine
-> - build xarray dataset of satellite imagery / NDVI
+
+### Tasks:
+
+- [x] find burned area polygons
+- [ ] build xarray dataset of satellite imagery / NDVI
+- [x] boilerplate Jupyter Notebook to interact with data
+- [ ] find fire occurrence points (NASA FIRMS / GlobalForestWatch)
+- [x] import PA & fire perimeter data into Earth Engine
+
 
 
 ### Existing Methods
 
+
+
 ### Proposed Methods/Tools
+Use the Normalized Burn Ratio (NBR) to highlight burned areas within large fire perimeter polygons.
 
 ### Background Reading
 [Normalized Burn Ratio](https://wiki.landscapetoolbox.org/doku.php/remote_sensing_methods:normalized_burn_ratio)
