@@ -7,9 +7,6 @@ Peter Olsoy (Project Lead), Joel Masselink, Sebastian Essink, Marvin Bensch, Eth
 ### The Problem
 
 
-### Application Example
-
-
 ### Sample Data
 WA State Protected Area estate:
 - Categorized into public and private management
@@ -36,8 +33,9 @@ Fire perimeters in Washington from 1973-2018
 - [ ] build xarray dataset of satellite imagery / NDVI
 - [x] boilerplate Jupyter Notebook to interact with data
 - [ ] find fire occurrence points (NASA FIRMS / GlobalForestWatch)
-- [x] import PA & fire perimeter data into Earth Engine
-
+- [x] import PA & fire perimeter data into Google Earth Engine
+- [ ] explore GEE datasets for estimating forest recovery in a single fire perimeter
+- [ ] extend GEE methods to entire fire dataset or intersection between fire perimeters and protected areas
 
 
 ### Existing Methods
