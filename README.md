@@ -18,7 +18,6 @@ Fire perimeters in Washington from 1973-2018
 - Fires from earlier years are very limited, with only a single fire in the 70's, with coverage increasing near the mid-80's
 - Source: [Washington Geospatial Open Data Portal](https://geo.wa.gov/datasets/6f31b076628d4f8ca5a964cbefd2cccc_0)
 
-
 ### Specific Questions
 - fire/burned area boundaries
 - classify land condition using raster data (NDVI, optical)
@@ -30,16 +29,15 @@ Fire perimeters in Washington from 1973-2018
 ### Tasks:
 
 - [x] find burned area polygons
-- [ ] build xarray dataset of satellite imagery / NDVI
 - [x] boilerplate Jupyter Notebook to interact with data
-- [ ] find fire occurrence points (NASA FIRMS / GlobalForestWatch)
+- [ ] make widget slider to demonstrate differences in NDVI pre- and post-Fire
+- [ ] map time series of total area burned in Washington, as well as subset to protected areas
 - [x] import PA & fire perimeter data into Google Earth Engine
-- [ ] explore GEE datasets for estimating forest recovery in a single fire perimeter
-- [ ] extend GEE methods to entire fire dataset or intersection between fire perimeters and protected areas
-
-
-### Existing Methods
-
+- [x] explore GEE datasets for estimating forest recovery in a single fire perimeter
+- [ ] generate time series of post-fire recovery in GEE
+- [ ] calculate average NDVI within a polygon and extract as CSV from GEE
+- [ ] extend GEE script to entire dataset
+- [ ] graph average NDVI over time for all burned areas
 
 
 ### Proposed Methods/Tools
